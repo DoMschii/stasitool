@@ -19,7 +19,7 @@ from pystray import Icon, MenuItem, Menu
 
 
 
-# Konfiguration
+# Konfiguration dasdaasd
 PING_TARGETS = {
     "gateway": "192.168.178.1",
     "google": "8.8.8.8",
